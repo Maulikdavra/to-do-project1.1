@@ -1,0 +1,17 @@
+##ToDo
+
+create a java class for below properties, add (constructor, getter&setters, toString method)
+
+id
+username
+description
+targetDate
+dones
+
+
+Initially we will be using static list of todos.
+Later we will use Database (h2, MySQL)
+
+bootstrap css path: /META-INF/resources/webjars/bootstrap/5.2.3/css/bootstrap.min.css
+bootstrap js path: /META-INF/resources/webjars/bootstrap/5.2.3/js/bootstrap.min.js
+bootstrap jquery path: /META-INF/resources/webjars/jquery/3.6.2/jquery.min.js
